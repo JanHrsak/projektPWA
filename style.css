@@ -1,0 +1,85 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.logo{
+	width: 20%;
+}
+
+nav{
+	background-color: grey;
+
+}
+nav a:link, a:active, a:visited{
+	text-decoration: none;
+	color: white;
+}
+
+.navigacija{
+	padding: 0 !important;
+}
+.ffs{
+	padding: 0 !important;
+}
+
+.main{
+	background-color: lightgray;
+	margin-top: 40px;
+	min-height: 575px !important;
+	padding: 20px 0px;
+}
+
+.sekta{
+	background-color: white;
+	padding: 5px;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+.naslov{
+	font-style: bold;
+	padding: 25px;
+	padding-bottom: 5px;
+}
+
+img{
+	width: 100%;
+}
+
+.forma{
+	max-width: 80%;
+	margin-left: 205px;
+	margin-bottom: 69px;
+	margin-top: 69px;
+	padding: 20px;
+	background-color: lightgreen;
+}
+
+.sekcija{
+	max-width: 80%;
+	margin-left: 205px;
+	margin-bottom: 69px;
+	margin-top: 69px;
+	padding: 20px;
+	background-color: lightskyblue;
+}
+.slikica{
+	width: 69%;
+}
+
+.slikara{
+	width: 20%;
+}
+
+.bojaPoruke{
+	color: red;
+}
+
+.postojeci{
+	margin-left: 250px;
+}
+
+footer{
+	margin-left: 205px;
+	font-size: 11px;
+}
